@@ -1,4 +1,4 @@
-name :My github workflow
+name: My github workflow
 on:
   push:
     branches:
